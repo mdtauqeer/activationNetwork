@@ -1,0 +1,287 @@
+Activators,degree_activating,class,essentiality,ActShortPath
+C00097,67,Others,1,6
+C00002,61,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00051,59,"Amino Acids, Peptides, and Analogues",0,7
+C00009,43,Others,1,Inf
+C00469,36,Aliphatic Acyclic Compounds,0,6
+C00157,27,Lipids,1,6
+C00008,27,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00020,24,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00750,24,Aliphatic Acyclic Compounds,1,7
+C00350,24,Lipids,1,6
+C00116,23,Carbohydrates and Carbohydrate Conjugates,0,6
+C00315,20,Aliphatic Acyclic Compounds,1,7
+C02737,20,Lipids,1,6
+C00076,19,Others,1,6
+C00027,19,Others,1,6
+C00059,18,Others,1,6
+C00031,18,Carbohydrates and Carbohydrate Conjugates,1,0
+C00865,18,"Amino Acids, Peptides, and Analogues",0,Inf
+C00044,17,"Nucleosides, Nucleotides, and Analogues",1,5
+C00305,16,Others,1,6
+C00158,16,Organic Acids and Derivatives,0,7
+C01194,16,Lipids,1,6
+C00135,15,"Amino Acids, Peptides, and Analogues",1,7
+C00033,14,Organic Acids and Derivatives,1,5
+C00132,14,Aliphatic Acyclic Compounds,0,2
+C19610,13,Others,1,6
+C00072,13,Others,0,8
+C00416,13,Lipids,0,7
+C00575,13,"Nucleosides, Nucleotides, and Analogues",0,Inf
+C00022,12,Organic Acids and Derivatives,1,5
+C00712,12,Lipids,0,7
+C00078,11,"Amino Acids, Peptides, and Analogues",1,6
+C00073,11,"Amino Acids, Peptides, and Analogues",1,6
+C00134,11,Aliphatic Acyclic Compounds,0,8
+C00005,10,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00018,10,Aromatic Cyclic Compounds,0,5
+C00075,10,"Nucleosides, Nucleotides, and Analogues",1,4
+C00062,10,"Amino Acids, Peptides, and Analogues",1,7
+C00037,10,"Amino Acids, Peptides, and Analogues",1,6
+C00086,10,Aliphatic Acyclic Compounds,0,8
+C00013,10,Others,1,Inf
+C00038,10,Others,1,6
+C00698,10,Others,1,6
+C00794,9,Lipids,0,3
+C00074,9,Aliphatic Acyclic Compounds,1,6
+C00003,9,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00025,9,"Amino Acids, Peptides, and Analogues",1,Inf
+C00085,9,Carbohydrates and Carbohydrate Conjugates,1,3
+C00089,9,Carbohydrates and Carbohydrate Conjugates,0,1
+C00064,9,"Amino Acids, Peptides, and Analogues",1,5
+C00035,9,"Nucleosides, Nucleotides, and Analogues",1,5
+C00026,9,Organic Acids and Derivatives,1,Inf
+C00004,8,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00042,8,Organic Acids and Derivatives,1,6
+C00049,8,"Amino Acids, Peptides, and Analogues",1,6
+C00342,8,Others,1,6
+C00011,8,Aliphatic Acyclic Compounds,1,Inf
+C00238,7,Others,1,6
+C00122,7,Lipids,1,6
+C00311,7,Organic Acids and Derivatives,0,7
+C00010,7,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00288,7,Organic Acids and Derivatives,1,7
+C05979,7,Lipids,0,8
+C00079,7,"Amino Acids, Peptides, and Analogues",1,6
+C00123,7,"Amino Acids, Peptides, and Analogues",1,7
+C00063,7,"Nucleosides, Nucleotides, and Analogues",1,5
+C00212,6,"Nucleosides, Nucleotides, and Analogues",1,7
+C00007,6,Others,1,Inf
+C01083,6,Carbohydrates and Carbohydrate Conjugates,1,2
+C00183,6,"Amino Acids, Peptides, and Analogues",1,7
+C00019,6,"Amino Acids, Peptides, and Analogues",1,7
+C01356,6,Others,1,5
+C00081,6,"Nucleosides, Nucleotides, and Analogues",0,8
+C00065,6,"Amino Acids, Peptides, and Analogues",1,5
+C00407,6,"Amino Acids, Peptides, and Analogues",1,7
+C00024,6,Lipids,1,6
+C01260,5,"Nucleosides, Nucleotides, and Analogues",0,Inf
+C00041,5,"Amino Acids, Peptides, and Analogues",1,6
+C00163,5,Organic Acids and Derivatives,0,9
+C00047,5,"Amino Acids, Peptides, and Analogues",1,7
+C00152,5,"Amino Acids, Peptides, and Analogues",1,6
+C00188,5,"Amino Acids, Peptides, and Analogues",1,7
+C00246,5,Lipids,0,9
+C00144,5,"Nucleosides, Nucleotides, and Analogues",1,6
+C00148,5,"Amino Acids, Peptides, and Analogues",1,7
+C14819,5,Others,0,7
+C00124,5,Others,0,5
+C01595,5,Lipids,0,Inf
+C05122,5,Lipids,0,Inf
+C01330,4,Others,1,6
+C00181,4,Carbohydrates and Carbohydrate Conjugates,0,7
+C00345,4,Carbohydrates and Carbohydrate Conjugates,0,4
+C00016,4,"Nucleosides, Nucleotides, and Analogues",1,6
+C00101,4,Aromatic Cyclic Compounds,1,6
+C00286,4,"Nucleosides, Nucleotides, and Analogues",0,6
+C03189,4,Others,0,7
+C00082,4,"Amino Acids, Peptides, and Analogues",1,6
+C00187,4,Lipids,0,Inf
+C00954,4,Aromatic Cyclic Compounds,0,9
+C00092,4,Carbohydrates and Carbohydrate Conjugates,1,2
+C00681,4,Others,0,Inf
+C01120,4,Lipids,0,8
+C00942,4,"Nucleosides, Nucleotides, and Analogues",0,6
+C00058,3,Organic Acids and Derivatives,1,6
+C00149,3,Organic Acids and Derivatives,0,7
+C00352,3,Carbohydrates and Carbohydrate Conjugates,0,4
+C00665,3,Carbohydrates and Carbohydrate Conjugates,0,4
+C00259,3,Carbohydrates and Carbohydrate Conjugates,0,9
+C00155,3,Others,1,7
+C00263,3,"Amino Acids, Peptides, and Analogues",1,7
+C00061,3,Aromatic Cyclic Compounds,0,5
+C00334,3,"Amino Acids, Peptides, and Analogues",1,5
+C04230,3,Lipids,0,Inf
+C00104,3,"Nucleosides, Nucleotides, and Analogues",0,7
+C00360,3,"Nucleosides, Nucleotides, and Analogues",1,6
+C00249,3,Lipids,0,7
+C00006,3,"Nucleosides, Nucleotides, and Analogues",1,Inf
+C00055,3,"Nucleosides, Nucleotides, and Analogues",1,6
+C00103,3,Carbohydrates and Carbohydrate Conjugates,1,3
+C00117,3,Others,0,5
+C00381,3,Lipids,0,6
+C00354,3,Carbohydrates and Carbohydrate Conjugates,0,4
+C00111,3,Others,1,5
+C00147,3,Aromatic Cyclic Compounds,1,7
+C00001,3,Others,1,Inf
+C00112,3,"Nucleosides, Nucleotides, and Analogues",0,5
+C00137,3,Others,1,4
+C01678,3,Aliphatic Acyclic Compounds,0,9
+C00362,3,"Nucleosides, Nucleotides, and Analogues",1,6
+C00533,3,Others,0,Inf
+C00120,3,Others,0,10
+C00184,2,Carbohydrates and Carbohydrate Conjugates,0,6
+C00546,2,Aliphatic Acyclic Compounds,0,6
+C00067,2,Aliphatic Acyclic Compounds,0,8
+C06424,2,Lipids,0,9
+C00417,2,Organic Acids and Derivatives,0,8
+C00257,2,Carbohydrates and Carbohydrate Conjugates,0,5
+C00524,2,Others,0,9
+C00087,2,Others,0,10
+C00294,2,"Nucleosides, Nucleotides, and Analogues",0,7
+C00430,2,"Amino Acids, Peptides, and Analogues",1,8
+C00131,2,"Nucleosides, Nucleotides, and Analogues",0,6
+C00458,2,"Nucleosides, Nucleotides, and Analogues",0,6
+C00459,2,"Nucleosides, Nucleotides, and Analogues",0,7
+C00084,2,Aliphatic Acyclic Compounds,0,6
+C00068,2,Aromatic Cyclic Compounds,1,6
+C02470,2,"Amino Acids, Peptides, and Analogues",0,8
+C01413,2,Others,0,Inf
+C00099,2,"Amino Acids, Peptides, and Analogues",1,8
+C00189,2,Aliphatic Acyclic Compounds,0,8
+C00105,2,"Nucleosides, Nucleotides, and Analogues",1,4
+C00418,2,Organic Acids and Derivatives,1,4
+C00182,2,Others,1,2
+C00251,2,Others,1,6
+C00536,2,Others,0,Inf
+C00741,2,Lipids,0,7
+C06809,2,"Amino Acids, Peptides, and Analogues",0,7
+C00647,2,Aromatic Cyclic Compounds,0,6
+C00253,2,Aromatic Cyclic Compounds,0,7
+C00404,2,Others,0,Inf
+C00279,2,Carbohydrates and Carbohydrate Conjugates,1,4
+C00029,2,"Nucleosides, Nucleotides, and Analogues",1,3
+C00475,2,"Nucleosides, Nucleotides, and Analogues",0,6
+C00849,2,Others,0,6
+C00318,2,Others,0,8
+C00860,2,Others,1,8
+C00165,2,Lipids,0,8
+C00392,2,Carbohydrates and Carbohydrate Conjugates,0,3
+C00093,2,Carbohydrates and Carbohydrate Conjugates,0,6
+C00986,2,Aliphatic Acyclic Compounds,0,8
+C00032,2,Aromatic Cyclic Compounds,1,8
+C00154,2,Lipids,1,7
+C01904,1,Others,0,6
+C01094,1,Carbohydrates and Carbohydrate Conjugates,0,5
+C00322,1,Organic Acids and Derivatives,1,11
+C00256,1,Organic Acids and Derivatives,0,6
+C00704,1,Others,0,7
+C00955,1,Others,0,9
+C00017,1,Others,0,7
+C00412,1,Lipids,1,7
+C14818,1,Others,1,6
+C00361,1,"Nucleosides, Nucleotides, and Analogues",0,6
+C01345,1,"Nucleosides, Nucleotides, and Analogues",0,7
+C00479,1,Others,0,8
+C00624,1,"Amino Acids, Peptides, and Analogues",1,8
+C00162,1,Others,1,6
+C17568,1,Others,0,7
+C00091,1,Lipids,1,8
+C00164,1,Organic Acids and Derivatives,0,7
+C00390,1,PR  Prenol lipids,0,8
+C01847,1,Others,0,6
+C00490,1,Organic Acids and Derivatives,0,Inf
+C00632,1,Aromatic Cyclic Compounds,1,8
+C05635,1,Aromatic Cyclic Compounds,0,Inf
+C01724,1,Lipids,1,7
+C02679,1,Lipids,0,9
+C01352,1,Others,0,7
+C00378,1,Aromatic Cyclic Compounds,0,7
+C00588,1,Aliphatic Acyclic Compounds,0,7
+C00159,1,Carbohydrates and Carbohydrate Conjugates,0,5
+C00329,1,Carbohydrates and Carbohydrate Conjugates,0,5
+C00379,1,Carbohydrates and Carbohydrate Conjugates,0,6
+C06369,1,Others,0,Inf
+C00110,1,Lipids,1,5
+C00095,1,Others,0,1
+C00043,1,"Nucleosides, Nucleotides, and Analogues",0,4
+C00140,1,Carbohydrates and Carbohydrate Conjugates,0,6
+C01835,1,Carbohydrates and Carbohydrate Conjugates,0,1
+C02291,1,Others,0,6
+C02341,1,Organic Acids and Derivatives,0,9
+C00328,1,"Amino Acids, Peptides, and Analogues",1,6
+C00121,1,Carbohydrates and Carbohydrate Conjugates,0,6
+C00267,1,Others,0,2
+C00275,1,Carbohydrates and Carbohydrate Conjugates,1,4
+C00119,1,Carbohydrates and Carbohydrate Conjugates,1,5
+C00169,1,Aliphatic Acyclic Compounds,1,6
+C03722,1,"Amino Acids, Peptides, and Analogues",1,7
+C07328,1,Others,0,7
+C14710,1,Others,0,7
+C00229,1,Others,0,8
+C00199,1,Others,1,5
+C00661,1,Others,1,4
+C01097,1,Others,0,4
+C00301,1,"Nucleosides, Nucleotides, and Analogues",0,Inf
+C00236,1,Others,0,5
+C01272,1,Others,0,11
+C00096,1,"Nucleosides, Nucleotides, and Analogues",1,6
+C03862,1,PR  Prenol lipids,1,6
+C04036,1,Others,0,8
+C00127,1,"Amino Acids, Peptides, and Analogues",0,7
+C00255,1,Aromatic Cyclic Compounds,1,6
+C01152,1,Others,0,8
+C00242,1,Aromatic Cyclic Compounds,0,7
+C00387,1,"Nucleosides, Nucleotides, and Analogues",0,7
+C00447,1,Others,0,5
+C00269,1,Others,0,7
+C00180,1,Aromatic Cyclic Compounds,0,7
+C02979,1,Others,0,7
+C01530,1,Lipids,0,7
+C13889,1,Others,0,7
+C00129,1,Aliphatic Acyclic Compounds,1,7
+C03360,1,Others,0,Inf
+C05402,1,Carbohydrates and Carbohydrate Conjugates,1,3
+C00156,1,Aromatic Cyclic Compounds,0,7
+C00221,1,Others,0,3
+C01566,1,Others,0,9
+C00464,1,Others,1,4
+C00909,1,Lipids,0,Inf
+C01755,1,Aliphatic Acyclic Compounds,0,9
+C00491,1,"Amino Acids, Peptides, and Analogues",0,Inf
+C00036,1,Organic Acids and Derivatives,0,6
+C00048,1,Organic Acids and Derivatives,0,6
+C01157,1,"Amino Acids, Peptides, and Analogues",0,Inf
+C00239,1,"Nucleosides, Nucleotides, and Analogues",1,6
+C00460,1,"Nucleosides, Nucleotides, and Analogues",0,5
+C00705,1,"Nucleosides, Nucleotides, and Analogues",0,6
+C00385,1,Aromatic Cyclic Compounds,0,7
+C00655,1,"Nucleosides, Nucleotides, and Analogues",1,6
+C00214,1,"Nucleosides, Nucleotides, and Analogues",0,7
+C00299,1,"Nucleosides, Nucleotides, and Analogues",0,5
+C00262,1,Aromatic Cyclic Compounds,0,7
+C01801,1,Carbohydrates and Carbohydrate Conjugates,0,Inf
+C06197,1,Others,0,Inf
+C01005,1,"Amino Acids, Peptides, and Analogues",0,6
+C00106,1,Aromatic Cyclic Compounds,0,5
+C01103,1,"Nucleosides, Nucleotides, and Analogues",1,5
+C00612,1,Others,0,7
+C01672,1,Others,0,9
+C00254,1,Others,1,7
+C00245,1,Organic Acids and Derivatives,0,7
+C02693,1,Others,0,10
+C00021,1,"Amino Acids, Peptides, and Analogues",1,8
+C06420,1,Others,0,8
+C03044,1,Others,0,7
+C20657,1,Others,0,Inf
+C02191,1,Aromatic Cyclic Compounds,1,9
+C00988,1,Others,0,8
+C00130,1,"Nucleosides, Nucleotides, and Analogues",1,6
+C01650,1,Others,1,7
+C01645,1,Others,1,7
+C00857,1,"Nucleosides, Nucleotides, and Analogues",1,7
+C00083,1,Lipids,1,7
+C00100,1,Lipids,0,7
+C00136,1,Lipids,0,8
+C00332,1,Lipids,0,6
+C00510,1,Lipids,1,7
